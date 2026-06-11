@@ -5,7 +5,7 @@ Colombo Stock Exchange (2006–2022).
 
 ## Project
 **Module:** Statistical Analysis   
-**Individual Contribution:** H.N.V.K. Sathsarani (S16770)
+**Individual Contribution:** Vihangi Hewanayake
 
 ## Features
 - Expolanka Holdings PLC performance analysis
