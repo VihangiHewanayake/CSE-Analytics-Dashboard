@@ -4,8 +4,7 @@ A Streamlit web application for analyzing Annual Trading Statistics of the
 Colombo Stock Exchange (2006–2022).
 
 ## Project
-**Module:** Statistical Analysis  
-**Group 3:** Fazra Farook, Shini Galabada, Poornima Wishwapathirana, Vihangi Hewanayake  
+**Module:** Statistical Analysis   
 **Individual Contribution:** H.N.V.K. Sathsarani (S16770)
 
 ## Features
